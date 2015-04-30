@@ -1,0 +1,4 @@
+# Only track htdocs
+data/
+logs/
+run/
